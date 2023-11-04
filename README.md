@@ -1,6 +1,5 @@
-# Ecommerce-Analysis
+# E-Commerce Analysis
 
-![image](/Ecommerce-Analysis/Dashboard.png)
-    Interactive dashboard made with excel to analyse the data for ecommerce website.
-    It has indicators and charts for the following
-- 
+The dashboard made with excel to analyse sales for the ecommerce website.
+
+ ![image](Dashboard.png)
