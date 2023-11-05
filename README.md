@@ -9,3 +9,5 @@ The dashboard made with excel to analyse sales for the ecommerce website.
  - Region
  - Segment
  - Shipping mode
+
+
